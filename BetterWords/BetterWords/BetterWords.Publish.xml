@@ -1,0 +1,20 @@
+<publishData>
+  <publishTarget publishUrl="http://localhost:8081/SpellChecker/">
+    <file relUrl="Web.config" publishTime="10/27/2015 01:47:15" />
+    <file relUrl="Helper.cs" publishTime="10/27/2015 03:17:33" />
+    <file relUrl="bin/BetterWords.pdb" publishTime="10/27/2015 03:17:34" />
+    <file relUrl="bin\Debug/BetterWords.dll.config" publishTime="10/27/2015 01:47:15" />
+    <file relUrl="BetterWords.WordService.svc" publishTime="10/27/2015 03:32:01" />
+    <file relUrl="IWordService.cs" publishTime="10/27/2015 03:10:43" />
+    <file relUrl="bin\Debug/BetterWords.dll" publishTime="10/27/2015 03:17:34" />
+    <file relUrl="Properties/AssemblyInfo.cs" publishTime="10/27/2015 01:46:03" />
+    <file relUrl="bin/BetterWords.dll.config" publishTime="10/27/2015 01:47:15" />
+    <file relUrl="WordService.cs" publishTime="10/27/2015 03:10:55" />
+    <file relUrl="BetterWords.csproj.user" publishTime="10/27/2015 03:14:16" />
+    <file relUrl="bin\Debug/BetterWords.pdb" publishTime="10/27/2015 03:17:34" />
+    <file relUrl="bin/BetterWords.dll" publishTime="10/27/2015 03:17:34" />
+    <file relUrl="App.config" publishTime="10/27/2015 01:47:15" />
+    <file relUrl="bin/words.txt" publishTime="10/21/2015 16:52:28" />
+    <file relUrl="BetterWords.csproj" publishTime="10/27/2015 03:14:16" />
+  </publishTarget>
+</publishData>

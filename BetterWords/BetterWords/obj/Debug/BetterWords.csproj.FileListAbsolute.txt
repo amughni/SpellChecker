@@ -1,0 +1,6 @@
+C:\GitHub\BetterWords\BetterWords\obj\Debug\BetterWords.csprojResolveAssemblyReference.cache
+C:\GitHub\BetterWords\BetterWords\bin\Debug\BetterWords.dll.config
+C:\GitHub\BetterWords\BetterWords\bin\Debug\BetterWords.dll
+C:\GitHub\BetterWords\BetterWords\bin\Debug\BetterWords.pdb
+C:\GitHub\BetterWords\BetterWords\obj\Debug\BetterWords.dll
+C:\GitHub\BetterWords\BetterWords\obj\Debug\BetterWords.pdb

@@ -1,0 +1,7 @@
+C:\GitHub\WordCheck\WordCheck\bin\WordCheck.dll.config
+C:\GitHub\WordCheck\WordCheck\bin\WordCheck.dll
+C:\GitHub\WordCheck\WordCheck\bin\WordCheck.pdb
+C:\GitHub\WordCheck\WordCheck\bin\DawgSharp.dll
+C:\GitHub\WordCheck\WordCheck\obj\Debug\WordCheck.dll
+C:\GitHub\WordCheck\WordCheck\obj\Debug\WordCheck.pdb
+C:\GitHub\WordCheck\WordCheck\obj\Debug\WordCheck.csprojResolveAssemblyReference.cache
